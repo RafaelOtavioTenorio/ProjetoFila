@@ -1,0 +1,15 @@
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.csproj.AssemblyReference.cache
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.AssemblyInfoInputs.cache
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.AssemblyInfo.cs
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.csproj.CoreCompileInputs.cache
+C:\AED AulaPratica PilhaFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.exe
+C:\AED AulaPratica PilhaFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.deps.json
+C:\AED AulaPratica PilhaFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.runtimeconfig.json
+C:\AED AulaPratica PilhaFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.dll
+C:\AED AulaPratica PilhaFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.pdb
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.dll
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\refint\ProjetoFila.dll
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.pdb
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.genruntimeconfig.cache
+C:\AED AulaPratica PilhaFila\ProjetoFila\obj\Debug\net6.0\ref\ProjetoFila.dll
